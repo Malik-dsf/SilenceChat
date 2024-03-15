@@ -1,0 +1,14 @@
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\Debug\net8.0\SilenceChatServeur.exe
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\Debug\net8.0\SilenceChatServeur.deps.json
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\Debug\net8.0\SilenceChatServeur.runtimeconfig.json
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\Debug\net8.0\SilenceChatServeur.dll
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\Debug\net8.0\SilenceChatServeur.pdb
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.GeneratedMSBuildEditorConfig.editorconfig
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.AssemblyInfoInputs.cache
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.AssemblyInfo.cs
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.csproj.CoreCompileInputs.cache
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.dll
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\refint\SilenceChatServeur.dll
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.pdb
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.genruntimeconfig.cache
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\ref\SilenceChatServeur.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilenceChatClient", "SilenceChat\SilenceChatClient.csproj", "{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilenceChatServeur", "SilenceChatServeur\SilenceChatServeur.csproj", "{5527721D-18A4-4052-8ABD-AAB269D4E0E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5527721D-18A4-4052-8ABD-AAB269D4E0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5527721D-18A4-4052-8ABD-AAB269D4E0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5527721D-18A4-4052-8ABD-AAB269D4E0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5527721D-18A4-4052-8ABD-AAB269D4E0E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB40FF62-9241-4CA4-BFD3-ECDDEB294480}
+	EndGlobalSection
+EndGlobal
