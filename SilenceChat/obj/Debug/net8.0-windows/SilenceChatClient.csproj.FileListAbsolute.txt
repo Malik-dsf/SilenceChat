@@ -19,3 +19,4 @@ F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChat\obj\Debug\net8.0-windows\S
 F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChat\obj\Debug\net8.0-windows\SilenceChatClient.genruntimeconfig.cache
 F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChat\obj\Debug\net8.0-windows\ref\SilenceChatClient.dll
 F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChat\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChat\obj\Debug\net8.0-windows\SilenceChatClient.sourcelink.json

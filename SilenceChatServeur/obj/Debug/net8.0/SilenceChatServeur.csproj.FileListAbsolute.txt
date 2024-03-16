@@ -12,3 +12,4 @@ F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\re
 F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.pdb
 F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.genruntimeconfig.cache
 F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\ref\SilenceChatServeur.dll
+F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\obj\Debug\net8.0\SilenceChatServeur.sourcelink.json

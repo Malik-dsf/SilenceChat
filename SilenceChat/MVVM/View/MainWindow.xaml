@@ -5,43 +5,57 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SilenceChat" xmlns:ViewModel="clr-namespace:SilenceChatClient.MVVM.ViewModel"
         mc:Ignorable="d"
-        Title="MainWindow" 
-        Height="474" 
-        Width="816">
+        ResizeMode="CanMinimize"
+        Background="Transparent"
+        Title="SilentChat"
+        Height="520" 
+        Width="920"
+        >
 
     <Window.DataContext>
         <ViewModel:MainViewModel />
     </Window.DataContext>
+
+    <Border CornerRadius="5" Background="#272537" Margin="5" >
+        <Grid>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="200"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+
+
+                <DockPanel>
+                    <TextBox Height="25"  DockPanel.Dock="Top" VerticalAlignment="Center" Foreground="#e6e6e6" Margin="5" Background="#7575a3" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" />
+                    <Button Height="25" DockPanel.Dock="Top" Content="Connexion" Command="{Binding ConnectToServeurCommand}"/>
+                    <ListView ItemsSource="{Binding Users}" Background="Transparent">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Background="#7575a3" Foreground="#e6e6e6" Text="{Binding Username}"/>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+
+                    </ListView>
+                </DockPanel>
+
+                <StackPanel Grid.Column="1">
+                    <ListView Height="380" SelectionChanged="ListView_SelectionChanged" Background="#8585ad" Margin="8" ItemsSource="{Binding Messages}"/>
+
+                    <StackPanel Orientation="Horizontal">
+                        <TextBox Height="55" Width="610" VerticalContentAlignment="Center" Background="#7575a3" HorizontalAlignment="Left" Margin="5"  Foreground="#e6e6e6" Text="{Binding Message , UpdateSourceTrigger=PropertyChanged}"/>
+
+                        <Button Width="70" Content="Send" BorderThickness="2" BorderBrush="Black" Command="{Binding SendMessageCommand}" >
+                            
+                        </Button>
+                    </StackPanel>
+                </StackPanel>
+
+
+            </Grid>
+        </Grid>
+        
+    </Border>
     
-    <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="200"/>
-            <ColumnDefinition/>
-        </Grid.ColumnDefinitions>
-
-        <DockPanel>
-            <TextBox Height="25"  DockPanel.Dock="Top" Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" />
-            <Button Height="25" DockPanel.Dock="Top" Content="Connexion" Command="{Binding ConnectToServeurCommand}"/>
-            <ListView ItemsSource="{Binding Users}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding Username}"/>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
-                
-            </ListView>
-        </DockPanel>
-
-        <StackPanel Grid.Column="1">
-            <ListView Height="380" SelectionChanged="ListView_SelectionChanged" ItemsSource="{Binding Messages}"/>
-
-            <StackPanel Orientation="Horizontal">
-                <TextBox Height="55" Width="545" VerticalContentAlignment="Center" Text="{Binding Message , UpdateSourceTrigger=PropertyChanged}"/>
-
-                <Button Width="55" Content="Send" Command="{Binding SendMessageCommand}" />
-            </StackPanel>
-        </StackPanel>
-        
-        
-    </Grid>
 </Window>

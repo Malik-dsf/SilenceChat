@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechatserveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|solutionrelative:silencechatserveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\mvvm\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechatserveur\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|solutionrelative:silencechatserveur\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechat\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{497D4AE6-9514-4BAD-A6BA-6A7BF78B24CC}|SilenceChat\\SilenceChatClient.csproj|solutionrelative:silencechat\\net\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechatserveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|solutionrelative:silencechatserveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|f:\\projet\\projet_c\\projet_sio\\silencechat\\silencechatserveur\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5527721D-18A4-4052-8ABD-AAB269D4E0E3}|SilenceChatServeur\\SilenceChatServeur.csproj|solutionrelative:silencechatserveur\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "SilenceChat\\MVVM\\Core\\RelayCommand.cs",
+              "ToolTip": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "SilenceChat\\MVVM\\Core\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:43:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Client.cs",
               "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChatServeur\\Client.cs",
               "RelativeDocumentMoniker": "SilenceChatServeur\\Client.cs",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChatServeur\\Program.cs",
               "RelativeDocumentMoniker": "SilenceChatServeur\\Program.cs",
@@ -63,30 +80,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Server.cs",
               "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\Net\\Server.cs",
               "RelativeDocumentMoniker": "SilenceChat\\Net\\Server.cs",
               "ToolTip": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\Net\\Server.cs",
               "RelativeToolTip": "SilenceChat\\Net\\Server.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAwwD0AAAAvAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAD4v04AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T23:13:03.327Z"
+              "WhenOpened": "2024-03-14T23:13:03.327Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SilenceChat\\MVVM\\View\\MainWindow.xaml",
               "ToolTip": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\View\\MainWindow.xaml",
               "RelativeToolTip": "SilenceChat\\MVVM\\View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-14T23:03:07.503Z"
+              "WhenOpened": "2024-03-14T23:03:07.503Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserModel.cs",
               "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\Model\\UserModel.cs",
               "RelativeDocumentMoniker": "SilenceChat\\MVVM\\Model\\UserModel.cs",
@@ -94,19 +113,21 @@
               "RelativeToolTip": "SilenceChat\\MVVM\\Model\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T22:54:14.132Z"
+              "WhenOpened": "2024-03-14T22:54:14.132Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainViewModel.cs",
               "DocumentMoniker": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "SilenceChat\\MVVM\\ViewModel\\MainViewModel.cs",
               "ToolTip": "F:\\projet\\Projet_C\\projet_sio\\SilenceChat\\SilenceChat\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "SilenceChat\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwCoAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T22:43:09.042Z"
+              "WhenOpened": "2024-03-13T22:43:09.042Z",
+              "EditorCaption": ""
             }
           ]
         }

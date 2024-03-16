@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SilenceChatServeur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe015bdce9c43fbaf119b14ccd5a1fb340a9aeed")]
 [assembly: System.Reflection.AssemblyProductAttribute("SilenceChatServeur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SilenceChatServeur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
