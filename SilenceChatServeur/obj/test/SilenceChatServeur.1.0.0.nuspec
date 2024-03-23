@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SilenceChatServeur</id>
+    <version>1.0.0</version>
+    <authors>SilenceChatServeur</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="99ed63cd38a1346d2a2c4c7e254265c4df2672e2" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\x64\test\net8.0\SilenceChatServeur.runtimeconfig.json" target="lib\net8.0\SilenceChatServeur.runtimeconfig.json" />
+    <file src="F:\projet\Projet_C\projet_sio\SilenceChat\SilenceChatServeur\bin\x64\test\net8.0\SilenceChatServeur.dll" target="lib\net8.0\SilenceChatServeur.dll" />
+  </files>
+</package>
