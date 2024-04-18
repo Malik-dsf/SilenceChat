@@ -12,21 +12,21 @@ Fonctionnalités
 
 <h2>Technologies utilisées</h2>
 
--C#: Langage de programmation utilisé pour le développement de l'application.
--Model-View-Controller (MVC): Architecture logicielle utilisée pour organiser le code en trois couches distinctes.
--Socket TCP/IP: Protocole de communication utilisé pour l'échange de données entre le client et le serveur.
--Entity Framework: Framework utilisé pour la gestion des données et l'accès à la base de données.
--SQLite: Système de gestion de base de données relationnelle utilisé pour stocker les informations des utilisateurs et les messages du chat.
+- C#: Langage de programmation utilisé pour le développement de l'application.
+- Model-View-Controller (MVC): Architecture logicielle utilisée pour organiser le code en trois couches distinctes.
+- Socket TCP/IP: Protocole de communication utilisé pour l'échange de données entre le client et le serveur.
+- Entity Framework: Framework utilisé pour la gestion des données et l'accès à la base de données.
+- SQLite: Système de gestion de base de données relationnelle utilisé pour stocker les informations des utilisateurs et les messages du chat.
 
 <h2>Installation</h2>
 
-1.Clonez ce dépôt sur votre machine locale.
-2.Assurez-vous d'avoir installé Microsoft Visual Studio ou un autre environnement de développement C#.
-3.Ouvrez le projet dans votre environnement de développement.
-4.Compilez et exécutez l'exécutable du serveur (SilenceChatServeur).
-5.Compilez et exécutez l'exécutable du client (SilenceChat).
-6.Connectez-vous en utilisant un nom d'utilisateur.
-7.Commencez à utiliser l'application pour communiquer avec d'autres utilisateurs connectés au serveur.
+1. Clonez ce dépôt sur votre machine locale.
+2. Assurez-vous d'avoir installé Microsoft Visual Studio ou un autre environnement de développement C#.
+3. Ouvrez le projet dans votre environnement de développement.
+4. Compilez et exécutez l'exécutable du serveur (SilenceChatServeur).
+5. Compilez et exécutez l'exécutable du client (SilenceChat).
+6. Connectez-vous en utilisant un nom d'utilisateur.
+7. Commencez à utiliser l'application pour communiquer avec d'autres utilisateurs connectés au serveur.
 
 <h2>Auteur</h2>
 
