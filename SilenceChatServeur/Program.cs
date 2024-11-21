@@ -15,12 +15,13 @@ namespace SilenceChatServeur
         static void Main(string[] args)
         {
             string _address = "127.0.0.1";
+            int port = 7891;
             _users = new List<Client>();
-            _lisener = new TcpListener(IPAddress.Parse(_address), 7891);
+            _lisener = new TcpListener(IPAddress.Parse(_address), port);
             _lisener.Start();
             Console.WriteLine("Serveur Lancer!");
             Console.WriteLine($"adresse de connexion : {_address}");
-            Console.WriteLine($"port de connexion : 7891");
+            Console.WriteLine($"port de connexion : {port}");
 
 
             while (true)
